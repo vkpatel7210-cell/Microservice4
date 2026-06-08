@@ -1,0 +1,4 @@
+fastapi  # Web framework analogous to Spring Boot REST controllers
+uvicorn[standard]  # ASGI server similar to embedded Tomcat in Spring Boot
+httpx  # Async HTTP client similar to RestTemplate / WebClient in Spring
+pydantic  # Data validation and settings management, analogous to Spring Boot request DTOs
